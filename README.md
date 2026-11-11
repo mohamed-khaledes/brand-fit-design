@@ -75,6 +75,12 @@ npx skills add mohamed-khaledes/brand-fit-design
 This uses the [`skills`](https://github.com/vercel-labs/skills) CLI, which installs the skill into
 Claude Code, Cursor, Codex and other agents that support skills.
 
+By default it installs into the current project only. To install it for all your projects, add `-g`:
+
+```bash
+npx skills add mohamed-khaledes/brand-fit-design -g
+```
+
 ### As a Claude Code plugin
 
 ```bash
