@@ -66,6 +66,15 @@ rejected. The next session reads it and skips the questions you've already answe
 
 ## Install
 
+### With npx (any agent)
+
+```bash
+npx skills add mohamed-khaledes/brand-fit-design
+```
+
+This uses the [`skills`](https://github.com/vercel-labs/skills) CLI, which installs the skill into
+Claude Code, Cursor, Codex and other agents that support skills.
+
 ### As a Claude Code plugin
 
 ```bash
