@@ -1,3 +1,5 @@
+<img width="2912" height="1440" alt="brand-fit-design" src="https://github.com/user-attachments/assets/713fd2b9-a90c-4828-a491-0cdcca5bee13" />
+
 # brand-fit-design
 
 **A lightweight, inspiration-led frontend design skill for Claude Code.**
