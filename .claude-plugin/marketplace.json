@@ -1,0 +1,23 @@
+{
+  "name": "brand-fit-design",
+  "description": "Inspiration-led frontend design: asks about your business and your favourite sites first, then designs a page that fits them.",
+  "owner": {
+    "name": "mohamed-khaledes"
+  },
+  "plugins": [
+    {
+      "name": "brand-fit-design",
+      "description": "Lightweight, inspiration-led frontend design. Asks about the business and for 2-5 inspirations, studies them, writes a traceable design brief, gets one OK, then builds and critiques the page against the references.",
+      "version": "1.0.0",
+      "source": "./",
+      "skills": ["./skills/brand-fit-design"],
+      "author": {
+        "name": "mohamed-khaledes"
+      },
+      "homepage": "https://github.com/mohamed-khaledes/brand-fit-design",
+      "repository": "https://github.com/mohamed-khaledes/brand-fit-design",
+      "license": "MIT",
+      "keywords": ["skills", "frontend", "design", "branding", "ui", "websites", "landing-page"]
+    }
+  ]
+}
